@@ -1,9 +1,9 @@
 Group 
 1. Availability for meeting expectations
-
--Wednesday nights
--Tuesday during lab hours
--Fridays
+  
+  -Wednesday nights
+  -Tuesday during lab hours
+  -Fridays
 
 2. Response time to communication expectations
 
@@ -12,13 +12,13 @@ Group
 
 3. Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
 
--code is checked in to github
--code is approved by no less than 2 group members prior to being merged
--passes applicable unit tests
--task  completed cohesively and completely [functions as intended]
-
+  -code is checked in to github
+  -code is approved by no less than 2 group members prior to being merged
+  -passes applicable unit tests
+  -task  completed cohesively and completely [functions as intended]
 
 4. Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+  
   -Meet three times a week
   -Group members are expected to be present during the meeting and available via microphone unless otherwise predetermined and agreed upon
   -Meetings will last between 25min-45min
@@ -32,7 +32,7 @@ Most of group members agree then we put policy in list below:
 Policies:
 
 Code should be commented to completion. This means there should be no questions as to a class or functions intentions.
-Upon checking in code group member will tag @all to inform team code has been checked in and request peer review/merge.
+Upon checking in code group member will tag @everyone to inform team code has been checked in and request peer review/merge.
 Variables will be named based off the content they contain. For example the number of eggs may be called numEgg
 Variables will be named in camelcase
 Functions will be named based off their intended use. For example a function that averages a list of scores may be called avScore
@@ -42,8 +42,11 @@ Functions will be named in camelcase
 6. Procedure for handling a member who is not meeting expectations, must include at least 3 actions before involving the instructor
 
 a. Group member is tagged in discord for confirmation/ discussion. Group member will have 24 hours to respond and address the issue.
-b. Group member will be emailed with initial pre-escalation contact, information regarding the attempted discord contact, and summary of expectations as a result of email. Group member will have 24 hours to reply to this email.
-c. Group member will be notified via email that their failure to comply has been documented, and the consequences of this (for example, another member is assigned their task). Group member is advised that failure to respond affirmatively to this email will result in instructor escalation.
+b. Group member will be emailed with initial pre-escalation contact, information regarding the attempted discord contact, and summary 
+   of expectations as a result of email. Group member will have 24 hours to reply to this email.
+c. Group member will be notified via email that their failure to comply has been documented, and the consequences of this (for example, 
+    another member is assigned their task). Group member is advised that failure to respond affirmatively to this email will result in 
+    instructor escalation.
 
 Signatures: each member must sign their name by typing their name at the bottom of the document.
 
